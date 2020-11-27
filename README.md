@@ -1,1 +1,1 @@
-# TopicModelYouTube
+# LDAによるTopicModel
