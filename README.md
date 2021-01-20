@@ -15,4 +15,5 @@ livedoorの記事をダウンロードし、それぞれの記事を、形態素
 構築したトピックモデルの有用性を簡単に検証するために、RandomForestによって記事を各ジャンルに分類した。正答率は3２%程度でやや低めであったが、ジャンル数が9つであった事を考えると、それなりにトピックモデルが有効であったことがわかる。
 
 <img src="https://user-images.githubusercontent.com/55009777/105167211-c7f7f600-5b5b-11eb-8cfe-50a712c4edb3.png" width="500px">
+
 ![pyLDAvis](https://user-images.githubusercontent.com/55009777/105167114-a434b000-5b5b-11eb-8b09-da6322eecd68.png)
